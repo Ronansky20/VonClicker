@@ -1,1 +1,1 @@
-# VonClicker
+# go to the terminal and press ctrl + c to make it stop
